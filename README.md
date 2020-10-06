@@ -175,3 +175,7 @@ We can also scrape metrics from micrometer, which I believe is the default metri
 
 - [spring-boot-actuator-metrics](https://www.callicoder.com/spring-boot-actuator-metrics-monitoring-dashboard-prometheus-grafana/)
 
+## Resources
+
+- https://www.robustperception.io/instrumenting-java-with-prometheus
+- https://blog.kubernauts.io/https-blog-kubernauts-io-monitoring-java-spring-boot-applications-with-prometheus-part-1-c0512f2acd7b
